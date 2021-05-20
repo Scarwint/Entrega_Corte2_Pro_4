@@ -1,0 +1,29 @@
+.product-table-container-2{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 390px;
+    border: 1px solid green;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: left;
+    margin-top: 10px;
+    text-align: left;
+    align-items:flex-end;
+}
+
+.mis-tablas-direccion{
+    left: 60px;
+}
+
+.search-input{
+    margin-bottom: 10px;
+}
+
+.formguardar-2{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: center;
+    background-color: darkseagreen;
+    margin-top: 10px;
+}

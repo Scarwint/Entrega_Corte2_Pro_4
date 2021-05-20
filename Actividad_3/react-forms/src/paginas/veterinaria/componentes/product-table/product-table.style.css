@@ -1,0 +1,31 @@
+.product-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 390px;
+    border: 1px solid green;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: left;
+    margin-top: 10px;
+}
+
+.search-input{
+    margin-bottom: 10px;
+}
+
+.formguardar{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: center;
+    background-color: darkseagreen;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+.tabla th, td{
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 5px solid springgreen;
+}

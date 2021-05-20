@@ -1,0 +1,16 @@
+.product-row-container{
+    border: 2px solid red;
+    box-sizing: border-box;
+    justify-content: left;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.product-without-stock{
+    color: red;
+    font-weight: bold;
+}
+
+.search-input{
+    margin-bottom: 10px;
+}

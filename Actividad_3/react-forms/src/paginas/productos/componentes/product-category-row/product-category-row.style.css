@@ -1,0 +1,12 @@
+.product-category-row-container{
+    border: 2px solid cyan;
+    box-sizing: border-box;
+    font-weight: bold;
+    justify-content: left;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.search-input{
+    margin-bottom: 10px;
+}

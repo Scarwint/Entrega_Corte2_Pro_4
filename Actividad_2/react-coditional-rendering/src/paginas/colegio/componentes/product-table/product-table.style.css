@@ -1,0 +1,22 @@
+.product-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 380px;
+    border: 1px solid green;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: left;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.search-input{
+    margin-bottom: 10px;
+}
+
+.formguardar{
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align:center;
+    background-color: darkseagreen;
+}
